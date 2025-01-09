@@ -14,11 +14,11 @@ To get started, clone the repository and install the necessary dependencies:
 7) uuid
 8) PIL from Image
 
-# clone the repository
+## clone the repository
 clone the repository using bash from the below repository link
 https://github.com/PhonePe/pulse#readme
 
-# How to use
+## How to use
 * Run the file using streamlit
 * The UI will show three tabs. Home, Data Exploration and Top charts
 * Click on Home tab and read about the project and it's terminologies in order to understand better
@@ -29,6 +29,6 @@ https://github.com/PhonePe/pulse#readme
 * At last the Top charts tab will include a list of questions in a drop down box like FAQ's
 * The user can select the desired question, the answers will be displayed in charts
 
-# Contact
+## Contact
 * Name - Safath Ali
 * email - alisafath@gmail.com
